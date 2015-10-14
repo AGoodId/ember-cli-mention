@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-mention",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon built to work with Mention.js. Possibility to @mention people like on Twitter.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,13 +35,17 @@
     "ember-disable-proxy-controllers": "^1.0.0",
     "ember-export-application-global": "^1.0.3",
     "ember-disable-prototype-extensions": "^1.0.0",
-    "ember-try": "0.0.6"
+    "ember-try": "0.0.6",
+    "typeahead": "0.2.0"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "typeahead",
+    "mention"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.3"
+    "ember-cli-babel": "^5.1.3",
+    "ember-cli-htmlbars": "0.7.9"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"

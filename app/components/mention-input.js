@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-mention/components/mention-input';

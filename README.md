@@ -1,3 +1,5 @@
+# THIS IS A WORK IN PROGRESS AT THE MOMENT
+
 # Ember-cli-mention
 
 This README outlines the details of collaborating on this Ember addon.
